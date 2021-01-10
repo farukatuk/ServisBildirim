@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ServisBildirim</string>
+    <string name="baslik">SERVİS/MALZEME</string>
+    <string name="baslik1">TALEP FORMU</string>
+    <string name="bulText">BUL</string>
+    <string name="bolumText">BÖLÜM </string>
+    <string name="arizaVerenText">İSİM</string>
+    <string name="markaText">MARKA</string>
+    <string name="modelText">MODEL</string>
+    <string name="seriNoText">SERİ NO</string>
+    <string name="makNoText">MAK.NO</string>
+    <string name="yeri">TALEP</string>
+    <string name="tEdenText">T.EDEN</string>
+    <string name="emailText">EMAIL</string>
+    <string name="arizaText">ARIZA</string>
+    <string name="tarihText">TARİH</string>
+    <string name="saatText">SAAT</string>
+    <string name="kayitButtonText">KAYIT</string>
+    <string name="cikButtonText">ÇIK</string>
+    <string name="conText">BAĞLI</string>
+    <string name="ara">ARA</string>
+
+    <string-array name="is_tipi">
+        <item>MALZEME</item>
+        <item>SERVİS</item>
+    </string-array>
+
+</resources>

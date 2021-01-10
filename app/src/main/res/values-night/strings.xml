@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bulText">BUL</string>
+    <string name="arizaVerenText">İSİM</string>
+    <string name="markaText">Marka</string>
+    <string name="makNoText">MAK:NO</string>
+    <string name="arizaText">ARIZA</string>
+    <string name="tarihText">TARİH</string>
+    <string name="saatText">SAAT</string>
+    <string name="kayitButtonText">KAYIT</string>
+    <string name="cikButtonText">ÇIK</string>
+    <string name="conText">BAĞLI</string>
+    <string name="ara">ARA</string>
+</resources>
